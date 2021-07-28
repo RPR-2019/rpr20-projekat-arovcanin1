@@ -11,4 +11,6 @@
 </p>
 
 ## Description
-It is known that the organization of health care institutions is very important. Ordination "Salutem" through the application of the same name allows you easy access to medical services. The goal of the application is to enable easier interaction between doctors and patients. 
+It is known that the organization of health care institutions is very important. Ordination "Salutem" through the application of the same name allows you easy access to medical services. The primary goal of the application is to enable easy interaction between doctors and patients. 
+The "Salutem" application was developed to optimize the clinic's business, reduce paperwork and save time.
+
