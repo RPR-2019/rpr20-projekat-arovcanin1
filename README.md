@@ -2,7 +2,7 @@
 
 <div align="center">
   
-                     # Aplikacija za ljekarsku ordinaciju - SALUTEM 
+  Aplikacija za ljekarsku ordinaciju - SALUTEM 
   
 </div>
 <p align="center">
