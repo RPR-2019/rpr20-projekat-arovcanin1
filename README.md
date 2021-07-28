@@ -1,4 +1,4 @@
-<p align = "center">
+<p align="center">
   
 # Aplikacija za ljekarsku ordinaciju - SALUTEM
 
