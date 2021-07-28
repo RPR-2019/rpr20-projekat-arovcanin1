@@ -10,4 +10,4 @@
 
 </p>
 
-## Opis
+## Description
